@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    margin-top: 100px;
+    background-color: #efefef;
+}
+
+header {
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 600px;
+    padding-left: 50px;
+    margin-top: 10px;
+}
+
+header button {
+    outline: none;
+    border: none;
+    margin-top: 50px;
+    width: 60px;
+    margin-left: 10px;
+    height: 35px;
+    background-color: #efefef;
+    border-radius: 5px;
+    box-shadow: 1px 10px 10px 3px #ccc;
+}
+
+#sec_row {
+    margin-top: -25px;
+}
+
+#sec_row button {
+    height: 60px;
+}
+
+.back, .cap, .enter {
+    width: 135px;
+}
+
+.third_row button {
+ margin-top: 25px;
+ height: 60px;
+}
+
+.tab {
+    width: 135px;
+}
+
+.forth_row button{
+    height: 60px;
+    margin-top: 25px;
+}
+
+
+.third_row .add  {
+    height: 150px;
+}
+
+.fifth_row button {
+    height: 60px;
+    margin-top: 25px;
+}
+
+.shift {
+    width: 150px;
+}
+
+.shifts {
+    width: 195px;
+}
+
+.last_part  button {
+    height: 60px;
+    margin-top: 25px;
+
+}
+
+.space {
+    width: 430px;
+}
+
+.zero {
+    width: 100px;
+}
